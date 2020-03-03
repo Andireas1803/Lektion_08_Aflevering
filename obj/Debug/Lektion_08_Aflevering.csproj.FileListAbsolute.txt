@@ -1,0 +1,14 @@
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\bin\Debug\Lektion_08_Aflevering.exe.config
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\bin\Debug\Lektion_08_Aflevering.exe
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\bin\Debug\Lektion_08_Aflevering.pdb
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\Lektion_08_Aflevering.csprojAssemblyReference.cache
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\App.g.cs
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\Lektion_08_Aflevering_MarkupCompile.cache
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\Lektion_08_Aflevering_MarkupCompile.lref
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\MainWindow.baml
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\Lektion_08_Aflevering.g.resources
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\Lektion_08_Aflevering.Properties.Resources.resources
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\Lektion_08_Aflevering.csproj.GenerateResource.cache
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\Lektion_08_Aflevering.exe
+C:\Users\Bruger\source\repos\Lektion_08_Aflevering\Lektion_08_Aflevering\obj\Debug\Lektion_08_Aflevering.pdb
